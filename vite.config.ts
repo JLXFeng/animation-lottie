@@ -13,5 +13,6 @@ export default defineConfig({
         replacement: resolve('./src')
       }
     ]
-  }
+  },
+  base:'/animation-lottie/'
 })

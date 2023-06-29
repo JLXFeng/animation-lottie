@@ -1,0 +1,1 @@
+.container{height:200vh;display:flex;justify-content:center;align-items:center}.container div{position:sticky;top:50%;height:300px;width:300px;transform:translateY(-50%)}
